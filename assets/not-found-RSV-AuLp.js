@@ -1,0 +1,1 @@
+import{$t as e,G as t,Ht as n,cr as r,sr as i,wn as a}from"./components-C10CDPdB.js";var o=i();function s(){let{t:i}=a();return(0,o.jsx)(t,{className:`py-16`,icon:n.noResults,title:i(`states.notFoundTitle`),body:i(`states.notFoundBody`),action:(0,o.jsx)(e,{asChild:!0,variant:`primary`,children:(0,o.jsx)(r,{to:`/`,children:i(`nav.overview`)})})})}export{s as default};
